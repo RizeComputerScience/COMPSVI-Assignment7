@@ -1,4 +1,4 @@
-# TSP Assignment: Computational Limits
+# The Traveling Salesman Problem: Computational Limits
 
 This repository contains implementations for analyzing the Traveling Salesman Problem (TSP) and understanding computational limits.
 
